@@ -76,7 +76,6 @@ set expandtab
 set tabstop=2
 set shiftwidth=2
 set gfn=Monaco:h14
-colorscheme vividchalk
 set nofoldenable
 set number
 set numberwidth=5
@@ -124,3 +123,4 @@ set wildignore+=*.pyc,*.zip,*.gz,*.bz,*.tar,*.jpg,*.png,*.gif,*.avi,*.wmv,*.ogg,
 "          "menuone".
 set completeopt=menu,menuone,longest,preview
 " end completion }}}
+colorscheme vividchalk
